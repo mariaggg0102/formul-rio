@@ -1,5 +1,5 @@
 body{
-  background:red;
+  background: skyblue;
 }
 
 form label{
@@ -12,6 +12,17 @@ table {
 }
 
 thead  {
+  background: #555555;
+  color: antiquewhite;
+  font-weight: bold;
+}
 
+td {
+  border: 1px solid white;
+  border-color: black;
+}
 
+td, th {
+  border: 1px solid white;
+  border-color: black;
 }
